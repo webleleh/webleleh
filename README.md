@@ -3,6 +3,7 @@
 Meu nome é Leticia Emanuele
 
 - Estou  fazendo curso pelo [Alura](https://www.alura.com.br)
+- Estudo no colégio Lysimaco F. da Costa em Curitiba
 
 ### Você pode entrar em contato comigo 📫
 
